@@ -1,0 +1,18 @@
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe.config
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.exe
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\bin\Debug\Clinic Management System.pdb
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csprojResolveAssemblyReference.cache
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.DoctorPanel.resources
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Form1.resources
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Properties.Resources.resources
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.SecretaryPanel.resources
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.csproj.GenerateResource.Cache
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.exe
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic Management System.pdb
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.AdminPanel.resources
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.EditProfile.resources
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.PatientProfile.resources
+c:\users\hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.CreateReservation.resources
+C:\Users\Hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.ViewReservations.resources
+C:\Users\Hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.Edit_Resesrvation.resources
+C:\Users\Hp\onedrive\documents\visual studio 2012\Projects\Clinic Management System\Clinic Management System\obj\Debug\Clinic_Management_System.visits.resources
